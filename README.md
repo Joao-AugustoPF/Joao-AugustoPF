@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm João Augusto</h1>
-<h3 align="center">A passionate web programmer who uses Javascript tools - node, Python, HTML, CSS, Styled Components along with Nextjs and Reactjs frameworks. I also have advanced English, with a B2 grade in the MET test (Michigan English Test). I have a course in graphic design, video editing and computational operation in Windows.</h3>
+<h3 align="center">A passionate Full Stack web programmer who uses Javascript tools - node, Nextjs and Reactjs frameworks. And HTML, CSS, Python. I am currently studying computer engineering (1/10). I also have advanced English, in the MET test (Michigan English Test). I have courses in graphic design, video editing and computational operation in Windows.</h3>
 
-- 🔭 I’m currently working on [TechHoje](https://techhoje.com)
+- 🔭 I’m currently working on [Abrahão](https://abrahao.com.br)
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💼 Also working on [UP Discursivas](NoLinkYet)
 
